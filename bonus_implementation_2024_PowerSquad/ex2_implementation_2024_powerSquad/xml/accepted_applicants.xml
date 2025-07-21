@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AcceptedApplicants exportDate="2024-08-12T23:50:24.364282200">
+  <Applicant ID="11">
+    <FirstName>Benjamin</FirstName>
+    <LastName>Harris</LastName>
+    <EmailAddress>ben@gmail.com</EmailAddress>
+    <PhoneNumber>(919) 555-1919</PhoneNumber>
+    <Status>accepted</Status>
+  </Applicant>
+  <Applicant ID="12">
+    <FirstName>Sophia</FirstName>
+    <LastName>Martin</LastName>
+    <EmailAddress>sophia@gmail.com</EmailAddress>
+    <PhoneNumber>(505) 555-0404
+</PhoneNumber>
+    <Status>accepted</Status>
+  </Applicant>
+  <Applicant ID="14">
+    <FirstName>Grace</FirstName>
+    <LastName>Garcia</LastName>
+    <EmailAddress>grace@gmail.com</EmailAddress>
+    <PhoneNumber>(213) 555-1010</PhoneNumber>
+    <Status>conditionally_accepted</Status>
+    <RemedialCourses>
+      <Course RemedialCourseId="2">
+        <CourseName>whispering</CourseName>
+        <CreditPoint>5</CreditPoint>
+        <MinimumRequiredGrades>90</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="3">
+        <CourseName>flying101</CourseName>
+        <CreditPoint>4</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="4">
+        <CourseName>fighting</CourseName>
+        <CreditPoint>3</CreditPoint>
+        <MinimumRequiredGrades>70</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>true</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="18">
+        <CourseName>Astronomy</CourseName>
+        <CreditPoint>2</CreditPoint>
+        <MinimumRequiredGrades>65</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="19">
+        <CourseName>Potions</CourseName>
+        <CreditPoint>5</CreditPoint>
+        <MinimumRequiredGrades>88</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="20">
+        <CourseName>Herbology</CourseName>
+        <CreditPoint>4</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="21">
+        <CourseName>Transfiguration</CourseName>
+        <CreditPoint>2</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+    </RemedialCourses>
+  </Applicant>
+  <Applicant ID="15">
+    <FirstName>Matthew</FirstName>
+    <LastName>Martinez</LastName>
+    <EmailAddress>matt@gmail.com</EmailAddress>
+    <PhoneNumber>(214) 555-1111</PhoneNumber>
+    <Status>conditionally_accepted</Status>
+    <RemedialCourses>
+      <Course RemedialCourseId="2">
+        <CourseName>whispering</CourseName>
+        <CreditPoint>5</CreditPoint>
+        <MinimumRequiredGrades>90</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="3">
+        <CourseName>flying101</CourseName>
+        <CreditPoint>4</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="4">
+        <CourseName>fighting</CourseName>
+        <CreditPoint>3</CreditPoint>
+        <MinimumRequiredGrades>70</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>true</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="18">
+        <CourseName>Astronomy</CourseName>
+        <CreditPoint>2</CreditPoint>
+        <MinimumRequiredGrades>65</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="19">
+        <CourseName>Potions</CourseName>
+        <CreditPoint>5</CreditPoint>
+        <MinimumRequiredGrades>88</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="20">
+        <CourseName>Herbology</CourseName>
+        <CreditPoint>4</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="21">
+        <CourseName>Transfiguration</CourseName>
+        <CreditPoint>2</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+    </RemedialCourses>
+  </Applicant>
+  <Applicant ID="16">
+    <FirstName>Abigail</FirstName>
+    <LastName>Robinson</LastName>
+    <EmailAddress>abi@hotmail.com</EmailAddress>
+    <PhoneNumber>0529483256</PhoneNumber>
+    <Status>conditionally_accepted</Status>
+    <RemedialCourses>
+      <Course RemedialCourseId="2">
+        <CourseName>whispering</CourseName>
+        <CreditPoint>5</CreditPoint>
+        <MinimumRequiredGrades>90</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="3">
+        <CourseName>flying101</CourseName>
+        <CreditPoint>4</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="4">
+        <CourseName>fighting</CourseName>
+        <CreditPoint>3</CreditPoint>
+        <MinimumRequiredGrades>70</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>true</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="18">
+        <CourseName>Astronomy</CourseName>
+        <CreditPoint>2</CreditPoint>
+        <MinimumRequiredGrades>65</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="19">
+        <CourseName>Potions</CourseName>
+        <CreditPoint>5</CreditPoint>
+        <MinimumRequiredGrades>88</MinimumRequiredGrades>
+        <SemesterA>true</SemesterA>
+        <SemesterB>false</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="20">
+        <CourseName>Herbology</CourseName>
+        <CreditPoint>4</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+      <Course RemedialCourseId="21">
+        <CourseName>Transfiguration</CourseName>
+        <CreditPoint>2</CreditPoint>
+        <MinimumRequiredGrades>85</MinimumRequiredGrades>
+        <SemesterA>false</SemesterA>
+        <SemesterB>true</SemesterB>
+        <SemesterSummer>false</SemesterSummer>
+      </Course>
+    </RemedialCourses>
+  </Applicant>
+</AcceptedApplicants>
