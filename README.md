@@ -43,14 +43,20 @@ The system manages the complex admission process for Hogwarts School's Wizardry 
 - **Strike Handling**: Process suspension and resumption capabilities
 
 ## 🏗️ System Architecture
-
-### Design Artifacts
-
+## 🛠️ Development Tools & Technologies
+- **Visual Paradigm**: UML model creation (recommended CASE tool)
+- **Microsoft Access**: Database implementation and QBE queries
+- **Microsoft Office**: Documentation (Word, Excel)
+- **LLM Interface**: Mandatory for DRAFT model generation
+- **iText Library**: PDF report generation
+- **Java Development Environment**: For implementation (if applicable)
+- **JSON/XML Libraries**: Data interchange and configuration management
+- 
 #### UML Models
 - **Use Case Diagram**: Complete system functionality overview
 - **Class Diagram**: Data entities, attributes, and relationships
 - **Sequence Diagrams**: Process flow interactions
-- **Statechart Diagram**: Application state transitions (Bonus)
+- **Statechart Diagram**: Application state transitions 
 
 #### Database Design
 - **3NF Tables**: Normalized relational database structure
@@ -58,25 +64,6 @@ The system manages the complex admission process for Hogwarts School's Wizardry 
 - **QBE Queries**: Periodical acceptance report generation
 - **Representative Data**: Comprehensive test data sets
 
-
-## 🛠️ Development Tools & Technologies
-
-- **Visual Paradigm**: UML model creation (recommended CASE tool)
-- **Microsoft Access**: Database implementation and QBE queries
-- **Microsoft Office**: Documentation (Word, Excel)
-- **LLM Interface**: Mandatory for DRAFT model generation
-
-
-## 🔍 Special Features
-
-### Reporting Capabilities
-- **Periodical Reports**: Regular acceptance statistics
-- **Committee Reports**: Interview outcomes and statistics
-- **Waiting List Analytics**: Time-based decision analysis
-
-## 📋 Deliverables Checklist
-
-### Required Artifacts
 - [ ] **1.1.a**: FINAL UML Use Case Diagram
 - [ ] **1.1.b**: FINAL Use Case Descriptions  
 - [ ] **1.1.c**: FINAL UML Class Diagram
@@ -90,4 +77,4 @@ The system manages the complex admission process for Hogwarts School's Wizardry 
 - ✅ QBE query produces correct report output
 - ✅ DRAFT and FINAL models show clear improvements
 - ✅ All artifacts properly named and submitted
-
+- 
